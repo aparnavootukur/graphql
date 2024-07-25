@@ -34,3 +34,6 @@ This is for firstime user.
 Route/mutation/login
 User can use the generated token for remaining CRUD operations performed on shipment,inventory and supplier tables
 
+FOR TESTING:
+using 'npx jest'
+
