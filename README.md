@@ -22,3 +22,15 @@ cd graphql
 
 ## To start server use npm start
 and click on http://localhost:4000/graphql
+
+
+After opening the server
+Goto
+Route/mutation/signUp
+This is for firstime user.
+1.After that token will be displayed in response
+2.Using the token add in the below fields of header against 'Authorization' header
+
+Route/mutation/login
+User can use the generated token for remaining CRUD operations performed on shipment,inventory and supplier tables
+
